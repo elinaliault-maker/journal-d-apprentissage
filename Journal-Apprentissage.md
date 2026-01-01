@@ -8,51 +8,21 @@ For this project, i have decided to learn react. I have so bases of front end de
 
 I started learning code during a swach of time  after my high school graduation while i was out of commission due to some health issues. I tauch myself the bases of HMTL and CSS (and some simple JS), using mostly the articles on the MDN website and practicing in combinaison with one another. 
 During my second and third DNMADE years, during the specialisation part, we had programming classes. I got to brush up those previous skills, learn JS more in depth and 
+- parse xml
+- c# in unity
+in alone time, to do app -> local storage
+graduating project dev, text recognition...
+maif -> gave me the want to learn md and pug
+helped Clem with react portofolio (extrapolation more than knowledge)
+for company
+- html templates with Jinja2 and css/html workaround to work wit wkhtmltopdf
+- html email signatures
 
 
 ## React test *(October 2)*
 
 ![App preview](assets/react-test.png)
-
-    function WelcomeText({ user }) {
-    return (
-        <p>
-        Welcome, {user.name} ! <br /> You are {user.age} years old.
-        </p>
-    );
-    }
-    function Button({ type, text = "Bouton" }) {
-    function handleClick() {
-        alert("You clicked me!");
-    }
-    let buttonType;
-    if (type == "primary") {
-        buttonType = "primary";
-    } else if (type == "secondary") {
-        buttonType = "secondary";
-    } else {
-        buttonType = "";
-    }
-    return (
-        <button className={buttonType} onClick={handleClick}>
-        {text}
-        </button>
-    );
-    }
-
-    export default function MyApp() {
-    return (
-        <div>
-        <h1>Welcome to my app</h1>
-        <WelcomeText user={{ name: "Elina", age: "23" }} />
-        <div className="buttonDiv">
-            <Button type="primary" text="Primary action" />
-            <Button type="secondary" text="Secondary action" />
-        </div>
-        </div>
-    );
-    }
-
+[See the code in the sandbox](https://codesandbox.io/p/sandbox/react-dev-forked-nh4867?file=%2Fsrc%2FApp.js%3A13%2C27)
 
 
 ## GitHub, github desktop, git (October 26)
@@ -63,6 +33,8 @@ During my second and third DNMADE years, during the specialisation part, we had 
 
 ## Color functions (October 28/29, 2025)
 See annexes [calculatingTint.js](annexes/calculatingTint.js) & [calculatingOpacity.js](annexes/calculatingOpacity.js)
+
+## Facture template
 
 ## Side quest (October - December)
 See annex *Biblio*
