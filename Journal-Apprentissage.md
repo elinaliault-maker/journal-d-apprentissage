@@ -30,16 +30,16 @@ for company
 [See the code in the sandbox](https://codesandbox.io/p/sandbox/react-dev-forked-nh4867?file=%2Fsrc%2FApp.js%3A13%2C27)
 
 
-## GitHub, github desktop, git (October 26)
+## GitHub, github desktop, git *(October 26)*
 [GitHub Hello World Article](https://docs.github.com/en/get-started/start-your-journey/hello-world)
 
-## Chart.js (October, 27-29)
+## Chart.js *(October, 27-29)*
 [Chart.JS Documentation](https://www.chartjs.org/docs/latest/)
 
-## Color functions (October 28/29, 2025)
+## Color functions *(October 28/29, 2025)*
 See annexes [calculatingTint.js](annexes/calculatingTint.js) & [calculatingOpacity.js](annexes/calculatingOpacity.js)
 
 ## Facture template
 
-## Side quest (October - December)
+## Side quest *(October - December)*
 See annex *Biblio*
