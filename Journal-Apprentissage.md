@@ -26,7 +26,6 @@ for company
 
 ## React test *(October 2)*
 
-![App preview](assets/react-test.png)
 [See the code in the sandbox](https://codesandbox.io/p/sandbox/react-dev-forked-nh4867?file=%2Fsrc%2FApp.js%3A13%2C27)
 
 
