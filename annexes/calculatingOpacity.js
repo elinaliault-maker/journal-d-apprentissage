@@ -8,10 +8,10 @@ function calculateOpacityOfColor(hexColorString, opacity) {
     let hexColorOpacity;
     // if opacity isn't and integer
     if (!Number.isInteger(opacity)) {
-        console.log("Error : Opacity nomber isn't an integer");
+        console.log("Error : Opacity number isn't an integer");
         return null;
     }
-    // if opacify isn't beween 1 and 100 
+    // if opacify isn't between 1 and 100 
     if (opacity < 1 || opacity > 100) {
         console.log("Error : Opacity number isn't between 1 and 100");
         return null;
@@ -35,7 +35,7 @@ function calculateOpacityOfColor(hexColorString, opacity) {
             hexColorOpacity = hexColorString.slice(0, 7) + alpha;
         }
     }
-    // Opacity is stricly equal 100 (no opacity defined in the end string)
+    // Opacity is strictly equal 100 (no opacity defined in the end string)
     else if (opacity === 100) {
         // Hex string doesn't have opacity (ex: "#8D1616")
         if(hexColorString.length === 7) {

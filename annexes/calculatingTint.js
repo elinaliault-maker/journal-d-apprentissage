@@ -1,8 +1,8 @@
 /* Exemple of use :
     const baseColor = '#12183b';
     const arrayBG = calculateTintArrayOfColor(baseColor, 0.16, 4);
-    const arrayHover = calualteTintsOfAnArray(arrayBG, 0.06);
-    const divHoverColor = calualteTintsOfColor(divBaseColor, 0.06);
+    const arrayHover = calculateTintsOfAnArray(arrayBG, 0.06);
+    const divHoverColor = calculateTintsOfColor(divBaseColor, 0.06);
 */
 
 /* FONCTIONS */
@@ -48,7 +48,7 @@ const calculateTintAndShade = (
 
 // Calculate an array of tints based on a specific color
 function calculateTintArrayOfColor(color, percentage = 0.1, quantity, baseIncluded = true) {
-    // With baseColor being the first color of the retun array
+    // With baseColor being the first color of the return array
     if(baseIncluded == true) {
         let arrayTint = [];
         arrayTint[0] = color;
@@ -73,7 +73,7 @@ function calculateTintArrayOfColor(color, percentage = 0.1, quantity, baseInclud
 };
 
 // Calculate the tints of an existing array
-function calualteTintsOfAnArray(arrayOfColors, percentage = 0.1) {
+function calculateTintsOfAnArray(arrayOfColors, percentage = 0.1) {
     let arrayTint = [];
     for (let i = 0; i < arrayOfColors.length; i++) {
         arrayTint[i] = calculateTintAndShade(arrayOfColors[i], percentage).tint.hex;
@@ -82,7 +82,7 @@ function calualteTintsOfAnArray(arrayOfColors, percentage = 0.1) {
 };
 
 //Calculate a tint of a base color
-function calualteTintsOfColor(baseColor, percentage = 0.1) {
+function calculateTintsOfColor(baseColor, percentage = 0.1) {
     let tintColor = calculateTintAndShade(baseColor, percentage).tint.hex;
     return tintColor;
 };
