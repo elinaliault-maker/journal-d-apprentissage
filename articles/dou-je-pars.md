@@ -1,4 +1,6 @@
-# Starting from
+# D'où je pars
+
+Pour recontextualiser mes connaissances en code avant de commencer cet apprentissage, je vous propose de faire le point sur ce que je sais déjà. 
 
 J'ai appris le HTML et CSS et des débuts de JavaScript après le lycée, en utilisant majoritairement les articles sur le site du [MDN](https://developer.mozilla.org/en-US/) et en m'entraînant sur des petits projets.
 
