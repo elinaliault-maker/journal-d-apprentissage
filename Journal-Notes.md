@@ -1,6 +1,6 @@
 # Journal d'apprentissage - Elina Liault 
 
-[Markedown converter](https://markdowntohtml.com/)
+[Markdown converter](https://markdowntohtml.com/)
 
 ## Notes RDV Mathieu
 blow up antonioni
@@ -13,7 +13,7 @@ For this project, i have decided to learn react. I have so bases of front end de
 
 ## Where I'm starting from
 
-I started learning code during a swash of time  after my high school graduation while i was out of commission due to some health issues. I tauch myself the bases of HTML and CSS (and some simple JS), using mostly the articles on the MDN website and practicing in combinaison with one another. 
+I started learning code during a swash of time  after my high school graduation while i was out of commission due to some health issues. I taught myself the bases of HTML and CSS (and some simple JS), using mostly the articles on the MDN website and practicing in combinaison with one another. 
 During my second and third DNMADE years, during the specialization part, we had programming classes. I got to brush up those previous skills, learn JS more in depth and 
 - parse xml
 - c# in unity
