@@ -13,7 +13,7 @@ body {
     opacity: 80%;
 }
 .markdown {
-    max-width: 800px;
+    max-width: 740px;
     margin: 3.5rem auto;
     padding-left: 1rem;
     border-left: 3px solid #404040;
@@ -22,7 +22,7 @@ body {
     font-optical-sizing: auto;
     font-weight: 500;
     font-style: normal;
-    line-height: 1.7;
+    line-height: 1.6;
     font-size: 0.9rem;
     color: #d4d4d4;
 }
@@ -43,7 +43,7 @@ body {
 }
 
 .markdown p {
-    margin: 1rem 0;
+    margin: 2rem 0;
 }
 
 .markdown a {
@@ -66,6 +66,14 @@ body {
     font-size: 0.8rem;
     color: #b7b7b7;
 }
+
+code {
+  background-color: #40404037;
+  border: 1px solid #404040;
+  border-radius: 3px;
+  padding: 0 4px;
+}
+
 
 iframe {
     width: 100%;
