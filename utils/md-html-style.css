@@ -54,6 +54,19 @@ body {
     text-decoration: none;
 }
 
+#footnotes {
+    margin-top: 3.2rem;
+}
+#footnotes hr {
+    width: 200px;
+    margin: 0;
+    border: 1px dashed #b7b7b7;
+}
+#footnotes p {
+    font-size: 0.8rem;
+    color: #b7b7b7;
+}
+
 iframe {
     width: 100%;
     min-height: 500px;
