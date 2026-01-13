@@ -44,3 +44,5 @@ See annexes [calculatingTint.js](annexes/calculatingTint.js) & [calculatingOpaci
 
 ## Side quest *(October - December)*
 See annex *Biblio*
+
+# Style et Git inline
