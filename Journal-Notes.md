@@ -29,3 +29,14 @@ to write
 See annex *Biblio*
 
 - Style et Git inline *(11 janv)*
+
+### This week
+- Continue using git command lines
+- Terminal command lines
+mkdir articles-html
+mv articles articles-md
+mv articles-md/*.html articles-html
+cd articles-md
+touch learning-git.md
+- thinking and strategizing portfolio projects
+- reading react mdn doc
