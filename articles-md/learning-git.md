@@ -1,5 +1,5 @@
 ### GitHub, github desktop, git 
-*(October 26)*
+*26 Octobre*
 
 Ces derniers jours, j'ai essayée de comprendre et d'apprendre git et GitHub. Pour ce faire, j'ai utilisé le [tuto Hello World](https://docs.github.com/en/get-started/start-your-journey/hello-world) dans la documentation de GitHub. J'ai ainsi pu me familiariser avec le fonctionnement de GitHub. 
 Ce système me permettant cependant de travailler en ligne, j'ai installé GitHub Desktop et fait [leur tutoriel](https://docs.github.com/en/desktop/overview/creating-your-first-repository-using-github-desktop) de démarrage afin de pouvoir comprendre le process pour travailler en local. 

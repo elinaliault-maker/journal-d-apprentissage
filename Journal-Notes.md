@@ -12,9 +12,7 @@ date de rendu peut-être repoussé
 - Intro 
 - Where I'm starting from
 - React test *(October 2)*
-
-### GitHub, github desktop, git *(October 26)*
-[GitHub Hello World Article](https://docs.github.com/en/get-started/start-your-journey/hello-world)
+- GitHub, github desktop, git *(October 26)*
 
 ### Chart.js *(October, 27-29)*
 [Chart.JS Documentation](https://www.chartjs.org/docs/latest/)
