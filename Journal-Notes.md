@@ -8,17 +8,11 @@ des fleurs pour algernon livre
 date de rendu peut-être repoussé
 
 ## Articles
-
 - Intro 
 - Where I'm starting from
 - React test *(October 2)*
 - GitHub, github desktop, git *(October 26)*
-
-### Chart.js *(October, 27-29)*
-[Chart.JS Documentation](https://www.chartjs.org/docs/latest/)
-
-### Color functions *(October 28/29, 2025)*
-See annexes [calculatingTint.js](annexes/calculatingTint.js) & [calculatingOpacity.js](annexes/calculatingOpacity.js)
+- Chart.js & Color functions *(October, 27-29)*
 
 ### Facture template *(25 nov)*
 to write
