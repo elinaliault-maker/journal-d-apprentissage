@@ -16,7 +16,7 @@ date de rendu peut-être repoussé
 - **Side quest *(October - December)* + annexe *Biblio***
 - Style et Git inline *(11 janv)*
 
-### This week
+### Last week
 - Continue using git command lines
 - Terminal command lines
 mkdir articles-html
@@ -26,3 +26,11 @@ cd articles-md
 touch learning-git.md
 - thinking and strategizing portfolio projects
 - reading react mdn doc
+- js overview new stuffs
+  - logical operators && ||
+  - if else ? : syntaxe
+  - try...catch statement
+  - throw statement
+  - arrow functions
+  - Classes
+  - Asynchronous programming
