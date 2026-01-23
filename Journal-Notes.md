@@ -16,12 +16,4 @@ date de rendu peut-être repoussé
 - **Side quest *(October - December)* + annexe *Biblio***
 - Style et Git inline *(11 janv)*
 - Documentation overview *19 Janvier*
-
-## This week
-tuto react
-but in a sandbox 
-changes i made to make it work:
-- onClick rather than onSubmit for the form
-- Date.now() for the unique key for todo item rather than nanoid cause i cant install (like npm install in a sandbox)
-
-[Date.now()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/now)
+- Tutoriel React *23 Janvier*
