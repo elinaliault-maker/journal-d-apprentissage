@@ -23,3 +23,5 @@ but in a sandbox
 changes i made to make it work:
 - onClick rather than onSubmit for the form
 - Date.now() for the unique key for todo item rather than nanoid cause i cant install (like npm install in a sandbox)
+
+[Date.now()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/now)
