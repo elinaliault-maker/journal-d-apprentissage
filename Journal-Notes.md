@@ -16,4 +16,8 @@ date de rendu peut-être repoussé
 - **Side quest *(October - December)* + annexe *Biblio***
 - Style et Git inline *(11 janv)*
 - Documentation overview *19 Janvier*
-- Tutoriel React *23 Janvier*
+- Tutoriel React ToDo *23 Janvier*
+- Tutoriel React Tic Tac Toe *5 Février*
+
+## Next up
+[Thinking in React](https://react.dev/learn/thinking-in-react)
