@@ -1,6 +1,8 @@
+import ButtonNext from "../button"
+
 export default function Intro() {
     return (
-    <main className="markdown">
+    <>
         <h1>Introduction</h1>
         <p>Pour mon journal d&#39;apprentissage, j&#39;ai décidé d&#39;apprendre le React avec pour objectif de m&#39;entraîner à faire un site web de bout en bout. 
             <br/><br/>
@@ -12,6 +14,7 @@ export default function Intro() {
         </p>
         <p>Toutefois, dans mon temps libre, ce que j&#39;apprends est généralement lié à un sujet qui m&#39;intéresse particulièrement ou à un projet qui nécessite cette connaissance ou compétence. C&#39;est pourquoi le fait que cette acquisition de compétences ait une application concrète est particulièrement important pour moi afin d&#39;arriver à concrétiser et réaliser cet apprentissage.</p>
         <p>S&#39;en plus attendre, <em>let&#39;s start learning !</em></p>
-    </main>
+        <ButtonNext />
+    </>
     )
 }
