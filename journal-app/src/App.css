@@ -118,6 +118,7 @@ button {
     padding: 0.4rem;
     border-radius: 0.2rem;
     box-shadow: 0.2rem 0.2rem 0.4rem black;
+    margin: 0.8rem 0;
 }
 button::before {
     content: "→ ";

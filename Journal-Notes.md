@@ -19,5 +19,15 @@ date de rendu peut-être repoussé
 - Tutoriel React ToDo *23 Janvier*
 - Tutoriel React Tic Tac Toe *5 Février*
 
-## Next up
+## This week
 [Thinking in React](https://react.dev/learn/thinking-in-react)
+react router
+trad
+
+## Next up
+- scroll back to top for new article
+- design home
+- design changes for articles
+- sommaire
+- Logo et favicon
+- deployment

@@ -1,10 +1,16 @@
 const DOMAINE = "http://localhost:3000/"
 const SOMMAIRE = [
-  { "titre": "Introduction", "url": "intro"},
-  { "titre": "D'où je pars", "url": "depart"},
-  { "titre": "React test", "url": "react-test"},
-  { "titre": "GitHub, github desktop, git", "url": "learning-git"},
-  { "titre": "Accueil", "url": ""}
+  { "titre": "Introduction", "url": "intro" },
+  { "titre": "D'où je pars", "url": "depart" },
+  { "titre": "React : premier essai", "url": "premier-essai" },
+  { "titre": "GitHub, github desktop, git", "url": "learning-git" },
+  { "titre": "Chart.js & Color functions", "url": "chart" },
+  { "titre": "Side Quest", "url": "side-quest"},
+  { "titre": "Style et Git inline", "url": "style-git-inline"},
+  { "titre": "Documentation overview", "url": "doc-overview"},
+  { "titre": "Tutoriel React ToDoList", "url": "tuto-todo"},
+  { "titre": "Tutoriel React Tic Tac Toe", "url": "tuto-game" },
+  { "titre": "Retour à l'accueil", "url": ""}
 ]
 
 export default function goToNextArticle() {
