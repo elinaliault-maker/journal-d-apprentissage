@@ -21,14 +21,13 @@ date de rendu peut-être repoussé
 - Traduire le journal en React *20 Février*
 
 ## Next up
-- Side quest article
 - scroll back to top for new article
 - design home
 - design changes for articles
 - sommaire
-- Logo et favicon
+- Logo/favicon design
 - deployment
 - last article/conclu
-- Relecture (+harmonisation fr/en)
+- Relecture/Réécriture (+harmonisation fr/en)
 - redeploy
 - send link
