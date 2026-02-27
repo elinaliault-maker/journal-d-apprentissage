@@ -10,6 +10,7 @@ const SOMMAIRE = [
   { "titre": "Documentation overview", "url": "doc-overview"},
   { "titre": "Tutoriel React ToDoList", "url": "tuto-todo"},
   { "titre": "Tutoriel React Tic Tac Toe", "url": "tuto-game" },
+  { "titre": "Traduire le journal en React", "url": "journal-react" },
   { "titre": "Retour à l'accueil", "url": ""}
 ]
 

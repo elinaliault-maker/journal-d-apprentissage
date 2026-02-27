@@ -13,6 +13,7 @@ import StyleGitInline from "./components/articles/StyleGitInline";
 import DocOverview from "./components/articles/DocOverview";
 import TutoToDo from "./components/articles/TutoToDo";
 import TutoGame from "./components/articles/TutoGame";
+import JournalReact from "./components/articles/JournalReact";
 
 const root = document.getElementById("root");
 
@@ -31,7 +32,8 @@ ReactDOM.createRoot(root).render(
         <Route path="doc-overview" element={<DocOverview />} />
         <Route path="tuto-todo" element={<TutoToDo />} />
         <Route path="tuto-game" element={<TutoGame />} />
+        <Route path="journal-react" element={<JournalReact />} />
       </Route>
     </Routes>
-  </BrowserRouter>,
+  </BrowserRouter>
 )
