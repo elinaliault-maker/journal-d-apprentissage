@@ -21,9 +21,7 @@ date de rendu peut-être repoussé
 - Traduire le journal en React *20 Février*
 
 ## Next up
-- design home
 - sommaire
-- Logo/favicon design
 - deployment
 - last article/conclu
 - Relecture/Réécriture (+harmonisation fr/en)

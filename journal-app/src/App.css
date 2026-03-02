@@ -14,7 +14,7 @@ body {
     background-color: var(--base);
     margin: 0;
 }
-#background-texture {
+.background-texture {
     position: fixed;
     top: 0;
     z-index: -100;
@@ -24,12 +24,13 @@ body {
     mix-blend-mode: multiply;
     opacity: 40%;
 }
-.markdown {
-    max-width: 740px;
-    margin: 3.5rem auto;
-    padding-left: 1rem;
-    border-left: 1px solid var(--overlay-1);
+#star{
+    height: auto;
+    mix-blend-mode: soft-light;
+}
 
+
+main {
     font-family: "Source Code Pro", monospace;
     font-optical-sizing: auto;
     font-weight: 500;
@@ -38,8 +39,20 @@ body {
     font-size: 0.9rem;
     color: var(--text);
 }
+.home {
+    width: 100vw;
+    height: 100vh;
+    align-content: center;
+    text-align: center;
+}
+.markdown {
+    max-width: 740px;
+    margin: 3.5rem auto;
+    padding-left: 1rem;
+    border-left: 1px solid var(--overlay-1);
+}
 
-.markdown h1{
+h1{
     line-height: 1.25;
     margin: 1rem 0;
     font-weight: 600;
@@ -47,7 +60,7 @@ body {
     margin-top: 0;
     color: var(--peach);
 }
-.markdown h2 {
+h2 {
     line-height: 1.25;
     font-size: 1.3rem;
     font-weight: normal;
@@ -55,23 +68,23 @@ body {
     color: var(--rosewater);
 }
 
-.markdown p {
+p {
     margin: 2rem 0;
 }
 
 /* liste qui suit un paragraphe */
-.markdown p:has(+ ul) {
+p:has(+ ul) {
     margin-bottom: 0.6rem;
 }
-.markdown p + ul {
+p + ul {
     margin-top: 0.3rem;
 }
 
-.markdown a {
+a {
     color: var(--blue);
     text-decoration: underline;
 }
-.markdown a:hover {
+a:hover {
     text-decoration: none;
 }
 

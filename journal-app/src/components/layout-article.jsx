@@ -5,7 +5,7 @@ import "../app.css"
 function LayoutArticle() {
   return (
     <>
-    <img id="background-texture" src={paperTexture} alt=""/>
+    <img className="background-texture" src={paperTexture} alt=""/>
     <main className="markdown">
       <Outlet />
     </main>
