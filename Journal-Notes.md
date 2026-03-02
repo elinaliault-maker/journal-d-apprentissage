@@ -21,7 +21,6 @@ date de rendu peut-être repoussé
 - Traduire le journal en React *20 Février*
 
 ## Next up
-- scroll back to top for new article
 - design home
 - design changes for articles
 - sommaire

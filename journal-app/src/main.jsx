@@ -14,7 +14,7 @@ import DocOverview from "./components/articles/DocOverview";
 import TutoToDo from "./components/articles/TutoToDo";
 import TutoGame from "./components/articles/TutoGame";
 import JournalReact from "./components/articles/JournalReact";
-import ScrollToTop from "./ScrollToTop";
+import ScrollToTop from "./utils/ScrollToTop";
 
 const root = document.getElementById("root");
 
