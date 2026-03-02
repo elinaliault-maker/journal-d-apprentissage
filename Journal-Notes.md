@@ -13,7 +13,7 @@ date de rendu peut-être repoussé
 - React test *(October 2)*
 - GitHub, github desktop, git *(October 26)*
 - Chart.js & Color functions *(October, 27-29)*
-- **Side quest *(October - December)* + annexe *Biblio***
+- Side quest *(October - December)* + annexe *Biblio*
 - Style et Git inline *(11 janv)*
 - Documentation overview *19 Janvier*
 - Tutoriel React ToDo *23 Janvier*
@@ -22,7 +22,6 @@ date de rendu peut-être repoussé
 
 ## Next up
 - design home
-- design changes for articles
 - sommaire
 - Logo/favicon design
 - deployment
