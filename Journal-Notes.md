@@ -20,6 +20,12 @@ date de rendu peut-être repoussé
 - Tutoriel React Tic Tac Toe *5 Février*
 - Traduire le journal en React *20 Février*
 
+## This week
+scroll to top
+color changes
+favicon
+home design
+
 ## Next up
 - sommaire
 - deployment
