@@ -14,11 +14,13 @@ import DocOverview from "./components/articles/DocOverview";
 import TutoToDo from "./components/articles/TutoToDo";
 import TutoGame from "./components/articles/TutoGame";
 import JournalReact from "./components/articles/JournalReact";
+import ScrollToTop from "./ScrollToTop";
 
 const root = document.getElementById("root");
 
 ReactDOM.createRoot(root).render(
   <BrowserRouter>
+    <ScrollToTop />
     <Routes>
       <Route index element={<Home />} />
       <Route element={<LayoutArticle />}>
