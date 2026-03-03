@@ -32,12 +32,14 @@ body {
     mix-blend-mode: soft-light;
     opacity: 20%;
 }
+/* index page */
 .home {
     width: 100vw;
     height: 100vh;
     align-content: center;
     text-align: center;
 }
+/* Layout articles */
 .container {
     display: flex;
     flex-direction: row;
@@ -49,6 +51,7 @@ body {
     border-left: 1px solid var(--overlay-1);
 }
 
+/* Generals */
 h1{
     line-height: 1.25;
     margin: 1rem 0;
@@ -64,11 +67,9 @@ h2 {
     margin-top: 0;
     color: var(--rosewater);
 }
-
 p {
     margin: 2rem 0;
 }
-
 /* liste qui suit un paragraphe */
 p:has(+ ul) {
     margin-bottom: 0.6rem;
@@ -76,7 +77,6 @@ p:has(+ ul) {
 p + ul {
     margin-top: 0.3rem;
 }
-
 a {
     color: var(--blue);
     text-decoration: underline;
@@ -127,7 +127,7 @@ pre code {
     padding: 0;
 }
 
-
+/* frame of web page */
 iframe {
     width: 100%;
     min-height: 500px;
@@ -149,7 +149,7 @@ button:hover {
     box-shadow: 0.1rem 0.1rem 0.2rem var(--crust);
 }
 
-/* Side bar */
+/* Side bar (in layout articles) */
 .side-bar {
     position: sticky;
     top: 3.5rem;
@@ -161,12 +161,14 @@ button:hover {
     margin: 0 5rem 0 2rem;
     color: var(--text);
 }
-/* back to home */
+/* back to home link */
 .back-home {
     display: flex;
     flex-direction: row;
     gap: 0.4rem;
     height: fit-content;
+    color: var(--text);
+    text-decoration: none;
 }
 .back-home img {
     width: 1.2rem;
@@ -174,20 +176,19 @@ button:hover {
 .back-home p {
     margin: 0;
 }
-.back-home {
-    color: var(--text);
-    text-decoration: none;
-}
-/* Accordion Summary */
+/* AccordionSummary */
 .accordion {
   height: fit-content;
+}
+.accordion-title,
+.accordion-content {
+  padding: 0.8rem;
 }
 .accordion-title {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   cursor: pointer;
-  /* background-color: var(--base); */
   border: 1px solid var(--overlay-1);
   border-radius: 4px;
 }
@@ -197,12 +198,7 @@ button:hover {
 .accordion-title:hover {
   background-color: var(--surface-0);
 }
-.accordion-title,
 .accordion-content {
-  padding: 1rem;
-}
-.accordion-content {
-  /* background-color: var(--base); */
   border: 1px solid var(--overlay-1);
   border-top: 0;
   border-radius: 0 0 4px 4px;

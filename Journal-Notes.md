@@ -30,7 +30,8 @@ reorga variables sommaire
 
 ## Next up
 - deployment
-- last article/conclu
+- a need to be target="_blank"
 - Relecture/Réécriture (+harmonisation fr/en)
+- last article/conclu
 - redeploy
 - send link
