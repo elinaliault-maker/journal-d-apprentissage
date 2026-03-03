@@ -1,5 +1,5 @@
 const DOMAINE = "http://localhost:3000/"
-const SOMMAIRE = [
+export const SOMMAIRE = [
   { "titre": "Introduction", "url": "intro" },
   { "titre": "D'où je pars", "url": "depart" },
   { "titre": "React : premier essai", "url": "premier-essai" },

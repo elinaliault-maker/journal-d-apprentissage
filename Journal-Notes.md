@@ -25,9 +25,10 @@ scroll to top
 color changes
 favicon
 home design
+sommaire
 
 ## Next up
-- sommaire
+- reorga variables sommaire
 - deployment
 - last article/conclu
 - Relecture/Réécriture (+harmonisation fr/en)
