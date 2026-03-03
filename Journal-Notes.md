@@ -27,10 +27,10 @@ favicon
 home design
 sommaire
 reorga variables sommaire
+a need to be target="_blank"
 
 ## Next up
 - deployment
-- a need to be target="_blank"
 - Relecture/Réécriture (+harmonisation fr/en)
 - last article/conclu
 - redeploy

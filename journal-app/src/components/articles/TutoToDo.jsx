@@ -14,16 +14,16 @@ export default function TutoToDo() {
         <div id="footnotes">
             <hr/>
             <p id="footnote-1">1. Ce que j&#39;appelle le tutoriel react de MDN comprend, dans l&#39;ordre, les 7 articles suivant : 
-                <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_getting_started">Getting started with React</a>, 
-                <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_todo_list_beginning">Beginning our React ToDo app</a>, 
-                <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_components">Componentizing our React app</a>, 
-                <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_interactivity_events_state">React interactivity: Events and state</a>, 
-                <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_interactivity_filtering_conditional_rendering">React interactivity: Editing, filtering, conditional rendering</a>, 
-                <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_accessibility">Accessibility in React</a>, 
-                <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_resources">React resources</a>
+                <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_getting_started">Getting started with React</a>, 
+                <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_todo_list_beginning">Beginning our React ToDo app</a>, 
+                <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_components">Componentizing our React app</a>, 
+                <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_interactivity_events_state">React interactivity: Events and state</a>, 
+                <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_interactivity_filtering_conditional_rendering">React interactivity: Editing, filtering, conditional rendering</a>, 
+                <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_accessibility">Accessibility in React</a>, 
+                <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_resources">React resources</a>
             </p>
             <p id="footnote-2">2. Étant donné que j&#39;utilisais un ordinateur qui n&#39;était pas le mien, je n&#39;ai pas voulu activer la possibilité d&#39;exécuter des scripts. Je ne pouvais donc pas exécuter les commandes <code>npm</code> nécessaires pour créer l&#39;app et lancer le serveur de dev.</p>
-            <p id="footnote-3">3. <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/now">Date.now()</a></p>
+            <p id="footnote-3">3. <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/now">Date.now()</a></p>
         </div> 
     </>
     )
