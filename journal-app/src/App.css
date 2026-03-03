@@ -94,7 +94,7 @@ a:hover {
     margin: 0;
     border: 1px dashed var(--overlay-1);
 }
-#footnotes p {
+#footnotes p, #footnotes li {
     font-size: 0.8rem;
 }
 #footnotes p:first-of-type {
@@ -212,4 +212,8 @@ button:hover {
 .accordion-content a.active {
     text-decoration: none;
     color: var(--text);
+}
+
+.cursor-pointer {
+    cursor: pointer;
 }
