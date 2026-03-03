@@ -1,5 +1,5 @@
 import paperTexture from '../assets/paper-texture.jpg'
-import ButtonNext from "./button"
+import ButtonNext from "./ButtonNext"
 import "../app.css"
 
 export default function Home() {

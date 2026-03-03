@@ -1,4 +1,4 @@
-import ButtonNext from "../button";
+import ButtonNext from "../ButtonNext";
 import QuestBiblio from "./QuestBiblio";
 
 export default function SideQuest() {

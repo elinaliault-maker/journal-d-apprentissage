@@ -1,4 +1,4 @@
-import ButtonNext from "../button";
+import ButtonNext from "../ButtonNext";
 
 export default function LearningGit() {
     return (
