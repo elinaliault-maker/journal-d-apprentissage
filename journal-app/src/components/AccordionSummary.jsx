@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { NavLink, Link } from "react-router";
-import { SOMMAIRE } from '../utils/goToNextArticle';
+import { SOMMAIRE } from '../utils/sommaireVariables';
 import reactLogo from "../assets/react-logo-text.svg";
 
 export default function AccordionSummary() {

@@ -26,9 +26,9 @@ color changes
 favicon
 home design
 sommaire
+reorga variables sommaire
 
 ## Next up
-- reorga variables sommaire
 - deployment
 - last article/conclu
 - Relecture/Réécriture (+harmonisation fr/en)
