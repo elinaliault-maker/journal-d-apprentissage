@@ -28,6 +28,7 @@ home design
 sommaire
 reorga variables sommaire
 a need to be target="_blank"
+test deployment on tic tac toe
 
 ## Next up
 - deployment
