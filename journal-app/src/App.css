@@ -131,6 +131,7 @@ pre code {
 iframe {
     width: 100%;
     min-height: 500px;
+    mix-blend-mode: lighten;
 }
 
 /* ButtonNext */
