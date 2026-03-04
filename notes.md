@@ -29,7 +29,7 @@ sommaire
 reorga variables sommaire
 a need to be target="_blank"
 test deployment on tic tac toe
-anim logo dvd sur home react logo (+reloadDocument)
+anim logo dvd sur home react logo (reloadDocument/trad react)
 
 ## Next up
 - deployment

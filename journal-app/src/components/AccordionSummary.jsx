@@ -15,7 +15,7 @@ export default function AccordionSummary() {
 
     return (
         <div className='side-bar'>
-            <Link to="/" className='back-home' reloadDocument >
+            <Link to="/" className='back-home'>
                 <img src={reactLogo} alt="" />
                 <p>Journal d'apprentissage</p>
             </Link>
