@@ -1,7 +1,8 @@
 import { useState } from 'react';
 import { NavLink, Link } from "react-router";
 import { SOMMAIRE } from '../utils/sommaireVariables';
-import reactLogo from "../assets/react-logo-text.svg";
+import reactLogo from '../assets/react-logo-text.svg'
+
 
 export default function AccordionSummary() {
     const [isActive, setIsActive] = useState(false);
@@ -14,7 +15,7 @@ export default function AccordionSummary() {
 
     return (
         <div className='side-bar'>
-            <Link to="/" className='back-home'>
+            <Link to="/" className='back-home' reloadDocument >
                 <img src={reactLogo} alt="" />
                 <p>Journal d'apprentissage</p>
             </Link>

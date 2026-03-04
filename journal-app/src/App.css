@@ -32,12 +32,13 @@ body {
     mix-blend-mode: soft-light;
     opacity: 20%;
 }
-/* index page */
+/* layout index */
 .home {
-    width: 100vw;
-    height: 100vh;
+    width: 99vw;
+    height: 99vh;
     align-content: center;
     text-align: center;
+    overflow: hidden;
 }
 /* Layout articles */
 .container {
@@ -217,4 +218,26 @@ button:hover {
 
 .cursor-pointer {
     cursor: pointer;
+}
+
+/* Logo animations */
+.home-logo {
+    width: 2rem;
+    height: auto;
+    position: absolute;
+    transition: all linear;
+    top: 0;
+    left: 0;
+}
+@keyframes logoRotation {
+  0% {transform: rotate(0);}
+  100% {transform: rotate(180deg);}
+}
+.home-logo, 
+.back-home img {
+    animation-name: logoRotation;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-timing-function: linear;
 }
