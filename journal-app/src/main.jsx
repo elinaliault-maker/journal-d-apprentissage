@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import { BrowserRouter, Routes, Route } from "react-router";
+import { HashRouter as Router, Routes, Route } from 'react-router';
 import Home from "./components/Home"
 import LayoutArticle from './components/LayoutArticle';
 import Intro from "./components/articles/Intro"
@@ -19,10 +19,10 @@ import ScrollToTop from "./utils/ScrollToTop";
 const root = document.getElementById("root");
 
 ReactDOM.createRoot(root).render(
-  <BrowserRouter>
+  <Router>
     <ScrollToTop />
     <Routes>
-      <Route index element={<Home />} />
+      <Route path="/" element={<Home />} />
       <Route element={<LayoutArticle />}>
         <Route path="intro" element={<Intro />} />
         <Route path="depart" element={<Depart />} />
@@ -37,5 +37,5 @@ ReactDOM.createRoot(root).render(
         <Route path="journal-react" element={<JournalReact />} />
       </Route>
     </Routes>
-  </BrowserRouter>
+  </Router>
 )
