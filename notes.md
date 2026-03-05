@@ -26,14 +26,17 @@ color changes
 favicon
 home design
 sommaire
+deploy test on tic tac toe
 reorga variables sommaire
 a need to be target="_blank"
 test deployment on tic tac toe
 anim logo dvd sur home react logo (reloadDocument/trad react/bounce on text bloc too)
+deploy ([help hashrouter](https://medium.com/@faithnjah5/react-router-on-github-pages-fix-deployment-issues-in-6-simple-steps-ec8c1b358e76), update goToNextArticle/sommaireVariables)
 
 ## Next up
-- deployment
 - Relecture/Réécriture (+harmonisation fr/en)
-- last article/conclu
-- redeploy
+- last article
+- conclu
+- have mom reread too
+- correct and redeploy
 - send link
