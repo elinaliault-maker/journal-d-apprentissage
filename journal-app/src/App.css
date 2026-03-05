@@ -37,8 +37,13 @@ body {
     width: 99vw;
     height: 99vh;
     align-content: center;
+    justify-items: center;
     text-align: center;
     overflow: hidden;
+}
+.home main {
+    width: fit-content;
+    padding: 2px;
 }
 /* Layout articles */
 .container {
