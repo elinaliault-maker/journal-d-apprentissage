@@ -64,7 +64,7 @@ export default function Home() {
 
         // Cleanup
         return () => clearInterval(animInterval);
-    }, [screenRef, logoRef]);
+    }, [screenRef, mainRef, logoRef]);
 
     return (
     <>
