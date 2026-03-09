@@ -13,7 +13,9 @@ export const SOMMAIRE = [
   { "titre": "Documentation overview", "url": "doc-overview"},
   { "titre": "Tutoriel React ToDoList", "url": "tuto-todo"},
   { "titre": "Tutoriel React Tic Tac Toe", "url": "tuto-game" },
-  { "titre": "Traduire le journal en React", "url": "journal-react" }
+  { "titre": "Traduire le journal en React", "url": "journal-react" },
+  { "titre": "Suite du développement", "url": "suite-dev"},
+  { "titre": "Déploiement", "url": "deploy"}
 ]
 export const AllLinks = [
     ...SOMMAIRE,

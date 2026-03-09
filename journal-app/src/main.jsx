@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { HashRouter as Router, Routes, Route } from 'react-router';
+import ScrollToTop from "./utils/ScrollToTop";
 import Home from "./components/Home"
 import LayoutArticle from './components/LayoutArticle';
 import Intro from "./components/articles/Intro"
@@ -14,7 +15,8 @@ import DocOverview from "./components/articles/DocOverview";
 import TutoToDo from "./components/articles/TutoToDo";
 import TutoGame from "./components/articles/TutoGame";
 import JournalReact from "./components/articles/JournalReact";
-import ScrollToTop from "./utils/ScrollToTop";
+import SuiteDev from "./components/articles/SuiteDev";
+import Deploy from "./components/articles/deploy";
 
 const root = document.getElementById("root");
 
@@ -35,6 +37,8 @@ ReactDOM.createRoot(root).render(
         <Route path="tuto-todo" element={<TutoToDo />} />
         <Route path="tuto-game" element={<TutoGame />} />
         <Route path="journal-react" element={<JournalReact />} />
+        <Route path="suite-dev" element={<SuiteDev />} />
+        <Route path="deploy" element={<Deploy />} />
       </Route>
     </Routes>
   </Router>
