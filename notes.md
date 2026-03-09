@@ -24,9 +24,8 @@ date de rendu peut-être repoussé
 
 
 ## Next up
-- Traduire last articles in react
 - Relecture/Réécriture (+harmonisation fr/en)
 - conclu
-- have mom reread too
+- have Mom reread too
 - correct and redeploy
 - send link
