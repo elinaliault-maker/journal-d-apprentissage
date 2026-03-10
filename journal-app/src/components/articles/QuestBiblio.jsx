@@ -26,14 +26,14 @@ const BIBLIO = <>
     <ul>
         <li>🌐 <a target="_blank" href="https://medium.com/@sohail_saifi/how-dating-apps-are-changing-how-we-think-about-user-matching-algorithms-eac1101d5d9d">How Dating Apps Are Changing How We Think About User Matching Algorithms</a> | Sohail Saifi</li>
     </ul>
-    <p>The internet&#39;s impact on dictatorship</p>
+    <p>The internet's impact on dictatorship</p>
     <ul>
         <li>🌐 <a target="_blank" href="https://www.cyis.org/post/digital-dictatorship-how-authoritarian-regimes-use-technology-to-silence-dissent">Digital Dictatorship: How Authoritarian Regimes Use Technology to Silence Dissent</a> | Maria Zoi Theoulaki</li>
         <li>🌐 <a target="_blank" href="https://www.globalpolicyjournal.com/blog/25/05/2023/political-and-economic-tradeoffs-understanding-dictators-digital-dilemma">Political and Economic Tradeoffs: Understanding the Dictator’s “Digital Dilemma”</a> | Jaclyn A. Kerr</li>
         <li>🌐 <a target="_blank" href="https://nestcentre.org/digital-sovereignty-or-digital-dictatorship/">Digital sovereignty or digital dictatorship? How the Kremlin is tightening control over cyberspace during wartime</a> | NEST Centre</li>
         <li>🌐 <a target="_blank" href="https://www.theglobalist.com/myanmar-dictatorship-surveillance-technology/">Myanmar and the Oppressive Side of the Digital Revolution</a> | Andrés Ortega</li>
     </ul>
-    <p>Data Colonialism &amp; Platform Capitalism</p>
+    <p>Data Colonialism & Platform Capitalism</p>
     <ul>
         <li>🌐 <a target="_blank" href="https://www.lawfaremedia.org/article/data-colonialism--and-the-political-economy-of-big-tech">‘Data Colonialism’ and the Political Economy of Big Tech</a> | Chinmayi Arun</li>
         <li>🌐 <a target="_blank" href="https://www.ippr.org/articles/the-challenges-of-platform-capitalism">The challenges of platform capitalism: understanding the logic of a new business model</a> | Nick Srnicek</li>
