@@ -51,10 +51,14 @@ body {
     flex-direction: row;
     margin: 3.5rem 0;
 }
+@media (max-width: 768px) {
+  .container { flex-direction: column;}
+}
 .markdown {
     max-width: 740px;
     padding-left: 1rem;
     border-left: 1px solid var(--overlay-1);
+    margin: 0 2rem;
 }
 
 /* Generals */
@@ -165,8 +169,11 @@ button:hover {
     gap: 1rem;
     width: 300px;
     height: fit-content;
-    margin: 0 5rem 0 2rem;
+    margin: 0 4rem 2rem 2rem;
     color: var(--text);
+}
+@media (max-width: 768px) {
+  .side-bar { position: initial;}
 }
 /* back to home link */
 .back-home {
