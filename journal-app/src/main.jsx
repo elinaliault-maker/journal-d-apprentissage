@@ -17,6 +17,8 @@ import TutoGame from "./components/articles/TutoGame";
 import JournalReact from "./components/articles/JournalReact";
 import SuiteDev from "./components/articles/SuiteDev";
 import Deploy from "./components/articles/deploy";
+import Tuto from "./components/articles/Tuto";
+import Conclu from "./components/articles/Conclu";
 
 const root = document.getElementById("root");
 
@@ -39,6 +41,8 @@ ReactDOM.createRoot(root).render(
         <Route path="journal-react" element={<JournalReact />} />
         <Route path="suite-dev" element={<SuiteDev />} />
         <Route path="deploy" element={<Deploy />} />
+        <Route path="tuto" element={<Tuto />} />
+        <Route path="conclu" element={<Conclu />} />
       </Route>
     </Routes>
   </Router>
