@@ -24,8 +24,12 @@ date de rendu peut-être repoussé
 
 
 ## Next up
+https://react-chartjs-2.js.org/
+https://react-chartjs-2.js.org/examples/line-chart
+- tuto
 - Relecture/Réécriture (+harmonisation fr/en)
 - conclu
 - have Mom reread too
 - correct and redeploy
 - send link
+https://www.notion.so/muetdhiver/JOURNAUX-D-APPRENTISSAGE-3225d822d3fc8045aeb2d97c0fe2eff0?p=2df5d822d3fc801db580c7019148b5ee&pm=s
