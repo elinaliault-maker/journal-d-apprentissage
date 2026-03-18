@@ -77,6 +77,15 @@ h2 {
     margin-top: 0;
     color: var(--rosewater);
 }
+h3 {
+    font-size: 1rem;
+    font-weight: normal;
+    color: var(--rosewater);
+    margin-bottom: 0.4rem;
+}
+p.underH3 {
+    margin-top: 0;
+}
 p {
     margin: 2rem 0;
 }
