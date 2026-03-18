@@ -59,6 +59,7 @@ body {
     padding-left: 1rem;
     border-left: 1px solid var(--overlay-1);
     margin: 0 2rem;
+    height: fit-content;
 }
 
 /* Generals */
