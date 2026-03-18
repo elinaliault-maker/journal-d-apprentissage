@@ -4,7 +4,7 @@ Pour recontextualiser mes connaissances en code avant de commencer cet apprentis
 
 J'ai appris le HTML et CSS et des débuts de JavaScript après le lycée, en utilisant majoritairement les articles sur le site du [MDN](https://developer.mozilla.org/en-US/) et en m'entraînant sur des petits projets.
 
-J'ai ensuite pu approfondir ces languages, notamment le JavaScript, durant mon DNMADE[^1]. Nous avions en effet des cours de programmation durant lesquels nous développions nos projets réalisés pendant les cours de création. Suivant les projets, le développement aboutissait à un prototype soit graphique soit fonctionnel.
+J'ai ensuite pu approfondir ces langages, notamment le JavaScript, durant mon DNMADE[^1]. Nous avions en effet des cours de programmation durant lesquels nous développions nos projets réalisés pendant les cours de création. Suivant les projets, le développement aboutissait à un prototype soit graphique soit fonctionnel.
 
 [^1]: Diplôme National des Métiers d'Art et de Design
 
